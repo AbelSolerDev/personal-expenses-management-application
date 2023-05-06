@@ -11,7 +11,9 @@
 
 The practice consists of creating a personal expense management application. Through the menu, income and expenses can be entered to keep a small control of our economy. The professor will provide us with a class diagram to develop all the corresponding functions and methods for its operation.
 
-• The main class will be the one that is executed when starting the program. At the end of the application, the message "End of the program. Thank you for using the application." should be displayed.
+<ul>
+<li>• The main class will be the one that is executed when starting the program. At the end of the application, the message "End of the program. Thank you for using the application." should be displayed.</li>
+</ul>
 
 
 ## 🚀 Technologies
